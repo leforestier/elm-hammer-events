@@ -1,0 +1,16 @@
+.new-record{
+  color: green;
+  font-size: 22px;
+  font-weight: bold;
+  height: 15vh;
+}
+
+.current-record{
+  font-size: 18px;
+  height: 15vh;
+}
+
+.last-speed{
+  font-size: 18px;
+  font-weight: bold;
+}
