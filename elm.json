@@ -3,7 +3,7 @@
     "name": "leforestier/elm-hammer-events",
     "summary": "Use Hammer.js touch events with Elm",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "HammerEvents"
     ],
